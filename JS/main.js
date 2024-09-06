@@ -328,3 +328,5 @@ for (let producto2 of todosLosProductos) {
 }
 
 console.log("Gracias por su compra, hasta pronto.")
+
+//👍 👌✔ comando: windows + .   para los emojis
